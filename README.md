@@ -10,3 +10,5 @@ Art & Music: Sargarious
 
 ## Playing the game:
 Pull down the repo and install from the `IdleRacing.exe`, and away you go!
+
+
