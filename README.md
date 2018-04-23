@@ -1,4 +1,4 @@
-#Idle Racing
+# Idle Racing
 
 This Tip Tap's first published game! 
 
